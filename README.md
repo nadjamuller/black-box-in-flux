@@ -1,12 +1,12 @@
 # Black Box in Flux 
 
-https://doi.org/10.5281/zenodo.17573884
+https://doi.org/10.5281/enodo.17574087
 
 ## Cite this work
 If you use this repository, please cite the Zenodo record:
 
 **Muller, N. (2025). *Black Box in Flux: v0.1.0 – First reproducible experiment*. Zenodo.**  
-DOI: https://doi.org/10.5281/zenodo.17573884
+DOI:10.5281/zenodo.17574087
 
 
 
