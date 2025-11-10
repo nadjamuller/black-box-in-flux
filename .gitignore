@@ -1,9 +1,18 @@
-# Python
-__pycache__/
-*.pyc
-
-# Jupyter
-.ipynb_checkpoints/
-
-# OS
+# macOS
 .DS_Store
+._*
+
+# Python + Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+env/
+*.pyc
+*.pyo
+*.pyd
+
+# Data and outputs
+data/raw/
+data/processed/
+results/
+!data/sample/
