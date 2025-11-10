@@ -1,4 +1,14 @@
-# Black Box in Flux — Minimal Starter
+# Black Box in Flux 
+
+https://doi.org/10.5281/zenodo.17573884
+
+## Cite this work
+If you use this repository, please cite the Zenodo record:
+
+**Muller, N. (2025). *Black Box in Flux: v0.1.0 – First reproducible experiment*. Zenodo.**  
+DOI: https://doi.org/10.5281/zenodo.17573884
+
+
 
 This repo gives you a no-lab, laptop-only pipeline to probe links between *flux* (slow parameter drift) in an open quantum system and *chaos-like* behavior in black-box output time series.
 
@@ -61,3 +71,6 @@ configs/         # parameters and configuration files
 
 
 Happy exploring!
+
+
+

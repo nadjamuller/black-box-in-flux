@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it using the metadata below."
+title: "Black Box in Flux: v0.1.0 – First reproducible experiment"
+authors:
+  - family-names: Muller
+    given-names: Nadja
+version: "0.1.0"
+doi: 10.5281/zenodo.17573884
+date-released: 2025-11-10
+repository-code: https://github.com/nadjamuller/black-box-in-flux
+license: CC-BY-4.0
+abstract: >
+  This release provides the first reproducible baseline for the *Black Box in Flux* experiment,
+  exploring the relationship between chaos, entropy, and quantum-like dynamics. Includes
+  Jupyter notebooks, automated metrics (Lempel–Ziv entropy and recurrence rate), and
+  reproducible outputs via environment.yml.
