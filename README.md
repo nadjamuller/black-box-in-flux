@@ -49,4 +49,15 @@ This repo gives you a no-lab, laptop-only pipeline to probe links between *flux*
 - Metrics implementations are compact and educational rather than ultrafast; they are sufficient for proof-of-concept.
 - If you hit performance limits, reduce trajectory length (`T_STEPS`) or embedding dimension (`EMB_DIM`).
 
+## Repository layout
+setup/            # helper scripts or modules
+notebooks/      # main Jupyter notebooks
+data/            # input/output data (sample included)
+outputs/         # notebook outputs and figures
+docs/            # notes and publications
+tests/           # quick smoke tests
+configs/         # parameters and configuration files
+
+
+
 Happy exploring!
