@@ -1,12 +1,12 @@
 # Black Box in Flux 
 
-https://doi.org/10.5281/zenodo.17573884
+https://doi.org/10.5281/zenodo.17574087
 
 ## Cite this work
 If you use this repository, please cite the Zenodo record:
 
 **Muller, N. (2025). *Black Box in Flux: v0.1.0 – First reproducible experiment*. Zenodo.**  
-DOI: https://doi.org/10.5281/zenodo.17573884
+https://doi.org/10.5281/zenodo.17574087
 
 
 
@@ -70,7 +70,6 @@ configs/         # parameters and configuration files
 
 
 
-Happy exploring!
 
-
-
+v0.2.1 — Sensitivity confirmed on surrogate.
+LZ↑, RR↓, φ-half↓, IF-spread↑ with flux; FWHM ~ constant. Code + outputs in /outputs (v021_*). See v021_stats_summary.md for slopes and gate decisions.
